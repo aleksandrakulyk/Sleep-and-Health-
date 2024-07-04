@@ -24,20 +24,27 @@ Skills Demonstrated
 - Python Programming
 - Health Data Interpretation and Insights
 
-#Setup
+Setup
+
+
 Please install Jupyter Notebook to run the code. Import pandas to be able to perform analysis and plotly.express to be able to visualize it.
 
-#Usage
+Usage
+
 Install Jupyter Notebook using pip and writing below code in terminal:
 
-pip install jupyterlab
-Import matplotlib.pyplot as pltand pandas as pd coding below at the very beggining:
+1. pip install jupyterlab
+2. Import matplotlib.pyplot as pltand pandas as pd coding below at the very beggining:
 
-iimport pandas as pd
-import matplotlib.pyplot as plt
+   - import pandas as pd
+   - import matplotlib.pyplot as plt
 
-#Acknowledgements
+Acknowledgements
+
+
 This project was created while learning Data Analysis, Pandas and Python.
 
-#Contact
+Contact
+
+
 Created by aleksandrakulyk - feel free to contact me!

@@ -3,7 +3,7 @@
 
 
 The project aimed to uncover insights into how different variables such as gender, age, occupation, and stress levels influence sleep quality and 
-overall health. Various statistics tests were performed to check Sleep Duration, QualityOfSLeep, StressLevel and PhysicalActivityLevel dependencies.
+overall health. Various statistics tests were performed to check dependencies of sleep duration, quality of sleep, stress level and physical activity level.
 A/B test was conducted to test how physical activity affects sleep duration.
 
 General Information
